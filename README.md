@@ -41,5 +41,5 @@ This is the backend service for the application, built with Spring Boot.
 
 ## Related Projects
 
-- **[Frontend Project](https://github.com/dvoron/frontend)** - The Vue.js user interface.
-- **[E2E Project](https://github.com/dvoron/E2E)** - End-to-End Playwright tests.
+- **[Frontend Project](https://github.com/dvoron/ForumProjectFrontend)** - The Vue.js user interface.
+- **[E2E Project](https://github.com/dvoron/ForumProjectE2E)** - End-to-End Playwright tests.
